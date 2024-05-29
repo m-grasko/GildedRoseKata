@@ -5,7 +5,7 @@ import (
 	"os"
 	"strconv"
 
-	rose "example/hello/gilded-rose"
+	rose "github.com/m-grasko/GildedRoseKata/gilded-rose"
 )
 
 func main() {
